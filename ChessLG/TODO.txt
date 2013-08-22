@@ -1,0 +1,22 @@
+﻿Buscar "TODO" en codigo
+
+Revisar Estado (StackOverFlow?? -.-) para independizar Jaque y Ahogado
+
+--> COMPLETADO
+- Movimientos de fichas basico
+- Enroque y sus reglas
+- Impide movimientos que provoquen Jaque
+- Detecta jaque (mate) y ahogado
+- Comer al paso y relacionado
+- Promoción de peones
+
+--> FALTA
+- Opciones de fin partida
+- Menu inicial
+- Estado partida
+- Guardar/Cargar partida (mediante su estado)
+- Reproducir partida mediante fichero de texto en notacion algebraica
+- Jugador CPU tontorron
+- Distintos niveles (y algoritmos?) de IA
+	- Salidas y jaques tipicos
+- Vencer al campeón del mundo!! xD
